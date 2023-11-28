@@ -18,3 +18,5 @@ with open('datas/duie_sample.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(line, ensure_ascii=False))
         f.write("\n")
 f.close()
+
+
